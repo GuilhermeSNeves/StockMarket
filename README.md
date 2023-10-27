@@ -1,2 +1,5 @@
 # StockMarket
-Stock Market Prediction using API. Python Language. Neural Network Model.
+Stock Market Prediction using API. 
+Python Language. 
+Neural Network Model.
+In Progress
